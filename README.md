@@ -8,7 +8,7 @@
 - 💼 &nbsp; front-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Writing articles is my hobby.
-- ☕ &nbsp; I belive, a cigarette can be the ultimate solution for any stress. 
+- 🚬 &nbsp; I belive, a cigarette can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
