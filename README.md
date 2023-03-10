@@ -2,12 +2,19 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React and TypeScript
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Browser Principle and computer programming.
+- 🔭 &nbsp; I’m currently writing some experience summary about of React, Vue, TypeScript and Node.
+- 🤔 &nbsp; Laying a solid foundation is my task at this stage.
 - 💼 &nbsp; front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Writing articles is my hobby.
+- 🌱 &nbsp; Interested in exploring low-code.
+- ✍️ &nbsp; Writing articles is my hobby, but I've been busy translating Effective TypeScript lately.
+
+<h3> 👨🏻‍💻 自我介绍 </h3>
+
+- 🔭 &nbsp; 最近在写一些关于 React、Vue、TypeScript 和 Node 的总结。
+- 🤔 &nbsp; 我这阶段的任务是夯实基础。
+- 💼 &nbsp; 我是一名前端工程师。
+- 🌱 &nbsp; 对探索低代码方向抱有兴趣。
+- ✍️ &nbsp; 写文章是我的业余爱好，但是我最近在忙着翻译 Effective TypeScript（目前是在语雀开设了私人知识库进行整理，之后考虑导入 GitHub，但是方案还没想好而且也还没有翻译完，所以这件事情可能还有点遥远）。
 
 <h3>🛠 Tech Stack</h3>
 
@@ -15,10 +22,6 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Visual Studio code | Git
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=senmu-a&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
 </br>
 
