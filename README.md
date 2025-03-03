@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Laying a solid foundation is my task at this stage.
 - 💼 &nbsp; front-end web developer.
 - 🌱 &nbsp; Interested in exploring low-code.
-- ✍️ &nbsp; Writing articles is my hobby, but I've been busy translating Effective TypeScript lately.
+- ✍️ &nbsp; Writing articles is my hobby.
 
 <h3> 👨🏻‍💻 自我介绍 </h3>
 
@@ -14,12 +14,12 @@
 - 🤔 &nbsp; 我这阶段的任务是夯实基础。
 - 💼 &nbsp; 我是一名前端工程师。
 - 🌱 &nbsp; 对探索低代码方向抱有兴趣。
-- ✍️ &nbsp; 写文章是我的业余爱好，但是我最近在忙着翻译 Effective TypeScript（目前是在语雀开设了私人知识库进行整理，之后考虑导入 GitHub，但是方案还没想好而且也还没有翻译完，所以这件事情可能还有点遥远）。
+- ✍️ &nbsp; 写文章是我的业余爱好。
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; TypeScript | Vue | React | Node  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; HTML | CSS | JavaScript | tailwindCss
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Visual Studio code | Git
 
